@@ -1,2 +1,2 @@
-Name:
-Student number:
+Name:Socrates
+Student number: 403401213
