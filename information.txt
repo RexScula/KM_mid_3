@@ -1,2 +1,2 @@
-Name:Socrates
+Name:Scula
 Student number: 403401213
